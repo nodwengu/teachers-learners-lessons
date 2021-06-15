@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b73ec8-b2f2-4414-be96-743d28fdebb5" name="Default Changelist" comment="" />
+    <list default="true" id="25b73ec8-b2f2-4414-be96-743d28fdebb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/teachers-learners-lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/schools.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/LearnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/LessonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/NotesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/DayDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/GradeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/LearnerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/LearnerDaoCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/LessonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/SubjectDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/DayDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/Grade10LearnerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/GradeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/LearnerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/LessonDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/SubjectDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/impl/TeacherDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Grade10Learner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Grade10learnerSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Learner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/LearnerLessonAttendant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/LearnerSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/school/model/TeacherSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/GRADE10.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/GRADE11.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/GRADE12.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/attendLesson.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/day.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/footer.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/header.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/learner.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/teachLesson.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/teacher.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/LearnerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/LessonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/NotesServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/TeacherServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/impl/Grade10LearnerDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/impl/LearnerDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/impl/SubjectDaoImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/school/impl/TeacherDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Cafeteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/school/Cafeteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Learner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Lesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/school/Notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/school/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/SchoolMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/SchoolTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/mapinterface/HashMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/school/mapinterface/InterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/net/school/CafeteriaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/net/school/CafeteriaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/net/school/LearnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/net/school/LessonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/net/school/TeacherTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,61 +111,62 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eMGHy53FM9ZcWqP2s80se9WDKA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.school" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.school.impl" />
+      <recent name="net.school.Service.impl" />
       <recent name="net.school" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.school.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.school.model" />
+      <recent name="net.school.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/school" />
+      <recent name="$PROJECT_DIR$/src/main/java/net/school/model" />
+      <recent name="$PROJECT_DIR$/src/main/resources/public/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/public/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SchoolMain">
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.school.mapinterface.HashMapDemo" />
-      <module name="teachers-learners-lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.school.mapinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchoolMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.school.SchoolMain" />
-      <module name="teachers-learners-lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.school.Learner" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchoolTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.school.SchoolTest1" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.school.App" />
       <module name="teachers-learners-lessons" />
       <extension name="coverage">
         <pattern>
@@ -76,28 +178,81 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.school.SwitchTest" />
+    <configuration name="Grade10LearnerDaoImplTest.getAllLearners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="teachers-learners-lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.school.*" />
+          <option name="PATTERN" value="net.school.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="net.school.impl" />
+      <option name="MAIN_CLASS_NAME" value="net.school.impl.Grade10LearnerDaoImplTest" />
+      <option name="METHOD_NAME" value="getAllLearners" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grade10LearnerDaoImplTest.getLearnerById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teachers-learners-lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.school.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.school.impl" />
+      <option name="MAIN_CLASS_NAME" value="net.school.impl.Grade10LearnerDaoImplTest" />
+      <option name="METHOD_NAME" value="getLearnerById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grade10LearnerDaoImplTest.registerLearner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teachers-learners-lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.school.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.school.impl" />
+      <option name="MAIN_CLASS_NAME" value="net.school.impl.Grade10LearnerDaoImplTest" />
+      <option name="METHOD_NAME" value="registerLearner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grade10LearnerDaoImplTest.shouldReturnLearnerLessons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="teachers-learners-lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.school.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.school.impl" />
+      <option name="MAIN_CLASS_NAME" value="net.school.impl.Grade10LearnerDaoImplTest" />
+      <option name="METHOD_NAME" value="shouldReturnLearnerLessons" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SchoolMain" />
-        <item itemvalue="Application.SchoolTest1" />
-        <item itemvalue="Application.HashMapDemo" />
-        <item itemvalue="Application.SwitchTest" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.Grade10LearnerDaoImplTest.shouldReturnLearnerLessons" />
+        <item itemvalue="JUnit.Grade10LearnerDaoImplTest.getLearnerById" />
+        <item itemvalue="JUnit.Grade10LearnerDaoImplTest.getAllLearners" />
+        <item itemvalue="JUnit.Grade10LearnerDaoImplTest.registerLearner" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -111,66 +266,78 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1595265192475">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="665" y="317" width="332" height="299" key="#Other_File_Types" timestamp="1606121907957">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="568" y="153" key="#com.intellij.ide.util.MemberChooser/81.24.1519.876@81.24.1519.876" timestamp="1595265192475" />
-    <state x="260" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594660287356">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="665" y="317" width="332" height="299" key="#Other_File_Types/72.27.1528.873@72.27.1528.873" timestamp="1606121907957" />
+    <state x="548" y="167" width="565" height="627" key="#com.intellij.ide.util.MemberChooser" timestamp="1606213970440">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="260" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/81.24.1519.876@81.24.1519.876" timestamp="1594660287356" />
-    <state x="578" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594222544788">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="548" y="167" width="565" height="627" key="#com.intellij.ide.util.MemberChooser/72.27.1528.873@72.27.1528.873" timestamp="1606213970440" />
+    <state x="387" y="377" width="939" height="180" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603525280138">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="578" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/81.24.1519.876@81.24.1519.876" timestamp="1594222544788" />
-    <state width="1473" height="306" key="GridCell.Tab.0.bottom" timestamp="1595586745020">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="387" y="377" width="939" height="180" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/72.27.1528.873@72.27.1528.873" timestamp="1603525280138" />
+    <state x="589" y="331" width="484" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605946280957">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="306" key="GridCell.Tab.0.bottom/81.24.1519.876@81.24.1519.876" timestamp="1595586745020" />
-    <state width="1473" height="306" key="GridCell.Tab.0.center" timestamp="1595586745018">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="589" y="331" width="484" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/72.27.1528.873@72.27.1528.873" timestamp="1605946280957" />
+    <state x="252" y="27" width="606" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606222520393">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="306" key="GridCell.Tab.0.center/81.24.1519.876@81.24.1519.876" timestamp="1595586745018" />
-    <state width="1473" height="306" key="GridCell.Tab.0.left" timestamp="1595586745017">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="252" y="27" width="606" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1528.873@72.27.1528.873" timestamp="1606222520393" />
+    <state x="569" y="212" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603200513040">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="306" key="GridCell.Tab.0.left/81.24.1519.876@81.24.1519.876" timestamp="1595586745017" />
-    <state width="1473" height="306" key="GridCell.Tab.0.right" timestamp="1595586745019">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="569" y="212" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1528.873@72.27.1528.873" timestamp="1603200513040" />
+    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606058128763">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="306" key="GridCell.Tab.0.right/81.24.1519.876@81.24.1519.876" timestamp="1595586745019" />
-    <state width="1473" height="293" key="GridCell.Tab.1.bottom" timestamp="1595584783038">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl/72.27.1528.873@72.27.1528.873" timestamp="1606058128763" />
+    <state width="891" height="262" key="GridCell.Tab.0.bottom" timestamp="1606223065461">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="293" key="GridCell.Tab.1.bottom/81.24.1519.876@81.24.1519.876" timestamp="1595584783038" />
-    <state width="1473" height="293" key="GridCell.Tab.1.center" timestamp="1595584783037">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state width="891" height="262" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1606223065461" />
+    <state width="891" height="262" key="GridCell.Tab.0.center" timestamp="1606223065460">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="293" key="GridCell.Tab.1.center/81.24.1519.876@81.24.1519.876" timestamp="1595584783037" />
-    <state width="1473" height="293" key="GridCell.Tab.1.left" timestamp="1595584783037">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state width="891" height="262" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1606223065460" />
+    <state width="891" height="262" key="GridCell.Tab.0.left" timestamp="1606223065460">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="293" key="GridCell.Tab.1.left/81.24.1519.876@81.24.1519.876" timestamp="1595584783037" />
-    <state width="1473" height="293" key="GridCell.Tab.1.right" timestamp="1595584783038">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state width="891" height="262" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1606223065460" />
+    <state width="891" height="262" key="GridCell.Tab.0.right" timestamp="1606223065461">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="1473" height="293" key="GridCell.Tab.1.right/81.24.1519.876@81.24.1519.876" timestamp="1595584783038" />
-    <state x="501" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1595559811178">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state width="891" height="262" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1606223065461" />
+    <state x="369" y="121" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1605823054153">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="501" y="277" key="com.intellij.ide.util.TipDialog/81.24.1519.876@81.24.1519.876" timestamp="1595559811178" />
-    <state x="612" y="182" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594294551080">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="369" y="121" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1528.873@72.27.1528.873" timestamp="1605823054153" />
+    <state x="606" y="184" width="479" height="349" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606127951712">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="612" y="182" key="com.intellij.testIntegration.createTest.CreateTestDialog/81.24.1519.876@81.24.1519.876" timestamp="1594294551080" />
-    <state x="154" y="140" key="new project wizard" timestamp="1594214374186">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="606" y="184" width="479" height="349" key="com.intellij.testIntegration.createTest.CreateTestDialog/72.27.1528.873@72.27.1528.873" timestamp="1606127951712" />
+    <state x="145" y="167" width="1372" height="599" key="new project wizard" timestamp="1606222990041">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="154" y="140" key="new project wizard/81.24.1519.876@81.24.1519.876" timestamp="1594214374186" />
-    <state x="503" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1595584375502">
-      <screen x="81" y="24" width="1519" height="876" />
+    <state x="145" y="167" width="1372" height="599" key="new project wizard/72.27.1528.873@72.27.1528.873" timestamp="1606222990041" />
+    <state x="499" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1606122324042">
+      <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="503" y="191" width="672" height="678" key="search.everywhere.popup/81.24.1519.876@81.24.1519.876" timestamp="1595584375502" />
+    <state x="499" y="214" width="672" height="678" key="search.everywhere.popup/72.27.1528.873@72.27.1528.873" timestamp="1606122324042" />
   </component>
 </project>
